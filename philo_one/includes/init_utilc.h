@@ -3,8 +3,8 @@
 
 #include "struct.h"
 
-int		allocate_memory(t_data *data);
-int		init_mutex(t_data *data);
-int		init_value(t_data *data, char **argv);
+int allocate_memory(t_data *data);
+int init_mutex(t_data *data);
+int init_value(t_data *data, char **argv);
 
 #	endif

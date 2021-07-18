@@ -3,7 +3,7 @@
 
 #include "struct.h"
 
-void	ft_create_str(char *str, t_data *data, int i, int option);
+void ft_create_str(char *str, t_data *data, int i, int option);
 
 #define TAKE_FORK 0
 #define IS_EATING 1

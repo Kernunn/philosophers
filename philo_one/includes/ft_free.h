@@ -3,7 +3,7 @@
 
 #include "struct.h"
 
-int	ft_free_data(t_data *data);
+int ft_free_data(t_data *data);
 int ft_free_args(t_args **args);
 
 #	endif

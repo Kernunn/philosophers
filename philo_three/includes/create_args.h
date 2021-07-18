@@ -3,6 +3,6 @@
 
 #include "struct.h"
 
-t_args			**create_args(t_data *data);
+t_args **create_args(t_data *data);
 
 #	endif

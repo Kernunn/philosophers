@@ -3,6 +3,6 @@
 
 #include "struct.h"
 
-t_data	*init_data(char **argv);
+t_data *init_data(char **argv);
 
 #	endif
